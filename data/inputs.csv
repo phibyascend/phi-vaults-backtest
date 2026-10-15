@@ -1,0 +1,43 @@
+series,period,value_pct,status,source
+tbill,2020,0.36,actual,FRED TB3MS monthly average (Jan-Dec 2020)
+tbill,2021,0.04,actual,FRED TB3MS monthly average (Jan-Dec 2021)
+tbill,2022,2.02,actual,FRED TB3MS monthly average (Jan-Dec 2022)
+tbill,2023,5.07,actual,FRED TB3MS monthly average (Jan-Dec 2023)
+tbill,2024,4.97,actual,FRED TB3MS monthly average (Jan-Dec 2024)
+tbill,2025,4.07,actual,FRED TB3MS monthly average (Jan-Dec 2025)
+tbill,LTM,3.69,actual,FRED TB3MS monthly average (Oct 2025-Sep 2026)
+esatf,2020,3.29,actual,TDB ESATF fact sheet Sep 2026 (annual return 2020)
+esatf,2021,3.52,actual,TDB ESATF fact sheet Sep 2026 (annual return 2021; Oct 2021 includes 0.17% origination-fee rebate)
+esatf,2022,5.20,actual,TDB ESATF fact sheet Sep 2026 (annual return 2022)
+esatf,2023,9.02,actual,TDB ESATF fact sheet Sep 2026 (annual return 2023)
+esatf,2024,9.84,actual,TDB ESATF fact sheet Sep 2026 (annual return 2024)
+esatf,2025,9.31,actual,TDB ESATF fact sheet Sep 2026 (annual return 2025)
+esatf,LTM,8.16,actual,TDB ESATF fact sheet Sep 2026 (rolling 12 months to 30 Sep 2026)
+amttf,2020,6.29,stand-in,ESATF + 3.0 points (fund launched Oct 2025; gap = observed LTM spread over ESATF)
+amttf,2021,6.52,stand-in,ESATF + 3.0 points
+amttf,2022,8.20,stand-in,ESATF + 3.0 points
+amttf,2023,12.02,stand-in,ESATF + 3.0 points
+amttf,2024,12.84,stand-in,ESATF + 3.0 points
+amttf,2025,12.31,stand-in,ESATF + 3.0 points
+amttf,LTM,11.21,actual,TDB AMTTF fact sheet Sep 2026: four quarters compounded (Q4 2025 2.25%; Q1 2026 3.06%; Q2 2026 2.78%; Q3 2026 2.68%; 1-year class)
+kilde,2020,11.6,stand-in,= 2022 value (Kilde began investing in 2021; no 2020 data)
+kilde,2021,11.6,stand-in,= 2022 value (no published 2021 figure)
+kilde,2022,11.6,actual,Kilde comparison page kilde.sg/comparisons/kilde-vs-syfe-income-plus ("average return over 2022 was ~11.6%"); Beansprout Dec 2023: 11.64% weighted average
+kilde,2023,12.0,stand-in,no published figure; between 2022 (11.6%) and 2025 (12.52%)
+kilde,2024,12.0,stand-in,no published figure; between 2022 (11.6%) and 2025 (12.52%)
+kilde,2025,12.52,actual,kilde.sg homepage ("Return in 2025" 12.52%; net after platform fees)
+kilde,LTM,12.09,actual,kilde.sg homepage ("Average Net Return in Last 12 Months" 12.09%; after platform fees)
+helicap,2020,8.1,stand-in,compounded from "cumulative return of 36.7% since inception April 2018 as of March 2022" (ADDX Helicap page; 2022 version)
+helicap,2021,8.1,stand-in,same cumulative figure
+helicap,2022,7.4,stand-in,implied by 36.7% to Mar 2022 and "more than 46%" to Feb 2023
+helicap,2023,8.0,stand-in,ADDX: "total annual net return of 9-11% since inception"; 24 consecutive positive quarters to Q1 2024; 8% used as a haircut
+helicap,2024,8.0,stand-in,nothing published after Q1 2024; 8% used
+helicap,2025,8.0,stand-in,nothing published after Q1 2024; 8% used
+helicap,LTM,8.0,stand-in,nothing published after Q1 2024; 8% used
+buffer,2020,0.36,stand-in,T-bill (Huma PST did not exist)
+buffer,2021,0.04,stand-in,T-bill
+buffer,2022,2.02,stand-in,T-bill
+buffer,2023,5.07,stand-in,T-bill
+buffer,2024,4.97,stand-in,T-bill
+buffer,2025,8.0,actual,Huma PST Classic mode (from Apr 2025) ~8% net; rounded
+buffer,LTM,8.0,actual,Huma PST Classic mode ~7.7-8% net; rounded
