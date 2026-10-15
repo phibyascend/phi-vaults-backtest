@@ -18,7 +18,8 @@ All checked 14–15 October 2026.
 - Homepage (average net return last 12 months 12.09% "after platform fees"; "Return in 2025" 12.52%; 0.0% defaults and 0.0% principal losses since launch; 0.5% yearly fee; MAS CMS licence CMS101016): https://www.kilde.sg/
 - 2022 average return (~11.6%): https://kilde.sg/comparisons/kilde-vs-syfe-income-plus
 - Beansprout, 11 December 2023 (11.64% weighted average across active deals; sponsored): https://growbeansprout.com/what-is-private-credit-kilde
-- Terms of Use effective 1 September 2026 (fund investors, client money at DBS, cross-border transfers): https://www.kilde.sg/terms-of-use
+- Terms of Use effective 1 September 2026 (fund investors via board resolution, clause 4.8; client money at DBS, 7.1; cross-border transfers, Schedule 7), linked from the footer of kilde.sg
+- Statistics page: https://www.kilde.sg/statistics
 
 ## Helicap
 - ADDX listing, Helicap Income Opportunities Fund ("total annual net return of 9–11% since inception in April 2018"; 24 consecutive quarters of positive gains as of Q1 2024; subscription closed 21 March 2024): https://addx.co/en/investments/helicap/
